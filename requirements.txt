@@ -1,0 +1,4 @@
+mcp
+arxiv>=2.1.0
+httpx>=0.27.0
+PyMuPDF>=1.24.0
